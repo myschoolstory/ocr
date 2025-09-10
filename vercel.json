@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "app/api/ocr/route.ts": {
+      "maxDuration": 60
+    }
+  },
+  "env": {
+    "TRIGGER_SECRET_KEY": "@trigger-secret-key"
+  }
+}
